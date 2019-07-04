@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Toppings">ಟಾಪ್ಪಿಂಗ್ಸ್</string>
+    <string name="app_name">ಕೇವಲ ಜಾವಾ</string>
+    <string name="Name">ಹೆಸರು</string>
+    <string name="Chocolate">" ಚಾಕೊಲೇಟ್"</string>
+    <string name="Whipped_Cream">" ಹಾಲಿನ ಕೆನೆ"</string>
+    <string name="Quantity">" ಪ್ರಮಾಣ"</string>
+    <string name="summary">" ಆರ್ಡರ್ ಸಾರಾಂಶ"</string>
+</resources>
